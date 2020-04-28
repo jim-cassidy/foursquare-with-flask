@@ -15,3 +15,11 @@ this is a useful tool.  If I wanted to search for how many schools are in a ten 
 lattitude and longiture, that can also be done.
 
 ## Sources
+
+https://medium.com/@aboutiana/a-brief-guide-to-using-foursquare-api-with-a-hands-on-example-on-python-6fc4d5451203
+
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+https://googleweblight.com/i?u=https://realpython.com/tutorials/flask/&grqid=NM3XQ02h&s=1&hl=en-US&f=1
+
+https://googleweblight.com/i?u=https://flask.palletsprojects.com/en/1.1.x/tutorial/&grqid=NM3XQ02h&s=1&hl=en-US&f=1
