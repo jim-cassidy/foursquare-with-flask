@@ -1,0 +1,15 @@
+<doctype html="">
+    <title>Foursquare Search</title>
+<h2>Foursquare Search</h2>
+{% from "_formhelpers.html" import render_field %}
+<form method="post">
+  
+    {{ render_field(form.select) }}
+    
+    {{ render_field(form.search) }}
+
+    {{ render_field(form.search3) }}
+ 
+  <p><input type="submit" value="Search">
+</p></form>
+</doctype>
