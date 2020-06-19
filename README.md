@@ -23,3 +23,9 @@ https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 https://googleweblight.com/i?u=https://realpython.com/tutorials/flask/&grqid=NM3XQ02h&s=1&hl=en-US&f=1
 
 https://googleweblight.com/i?u=https://flask.palletsprojects.com/en/1.1.x/tutorial/&grqid=NM3XQ02h&s=1&hl=en-US&f=1
+
+
+## Screenshots
+
+![Alt text](/screenshots/results.png?raw=true "Optional Title")
+
