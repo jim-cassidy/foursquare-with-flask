@@ -1,0 +1,38 @@
+<doctype html>
+
+
+
+<head>
+    <title>Foursquare Search</title>
+</head>
+
+<h2>Foursquare Search</h2>
+
+ 
+<img src='/static/foursquare_logo.png'>
+
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <ul class=flashes>
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+
+{% from "_formhelpers.html" import render_field %}
+<form method=post>
+  <dl>
+    {{ render_field(form.select) }}
+    <p>
+    {{ render_field(form.search) }}
+    <p>
+    {{ render_field(form.locationcity) }}
+    <p>
+    {{ render_field(form.locationstate) }}
+  </dl>
+  <p><input type=submit value=Search>
+</form>
+
+<img src="/templates/image1.jpg">
