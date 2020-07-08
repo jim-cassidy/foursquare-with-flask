@@ -27,7 +27,7 @@ https://googleweblight.com/i?u=https://flask.palletsprojects.com/en/1.1.x/tutori
 
 ## Screenshots
 
-![Alt text](/screenshots/screen1.png?raw=true "Optional Title")
+![Alt text](/screenshots/main1.png?raw=true "Optional Title")
 
 ![Alt text](/screenshots/listids.png?raw=true "Optional Title")
 
